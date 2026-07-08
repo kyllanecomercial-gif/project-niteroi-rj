@@ -528,7 +528,7 @@ nav {
 .footer{
     background:
         linear-gradient(rgba(20,20,20,.82), rgba(20,20,20,.92)),
-        url("./foto-niteroi-mac.jpg");
+        url("./assets/foto-niteroi-mac.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -549,7 +549,7 @@ nav {
 
 .background {
     background-image: 
-    linear-gradient(rgba(20, 20, 20, 0.70), rgba(20,20,20, 0.70)), url(./niteroi-vista.jpg);
+    linear-gradient(rgba(20, 20, 20, 0.70), rgba(20,20,20, 0.70)), url(./assets/niteroi-vista.jpg);
     background-size: cover;
     background-position: center;
     display:flex;
